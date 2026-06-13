@@ -1,0 +1,23 @@
+1 6 2026 Happy 5 #it was my birthday 
+2 6 2026 Angry 2 #all my plans got ruined
+3 6 2026 stressed 2 #i feel overwhelmed
+15 6 2026 Sad 1 #i feel alone
+16 7 2026 Calm 4 #i trust the process
+20 7 2026 Calm 4 #i handled things well
+25 7 2026 Stressed 1 #i have exams
+5 8 2026 Happy 5 #i achieved something
+30 8 2026 Calm 4 #i found my balance
+8 9 2026 Sad 1 #i feel tired
+20 9 2026 sad 1 #i sad
+2 6 2026 Angry 2 #all my plans got ruined
+3 6 2026 stressed 2 #i feel overwhelmed
+15 6 2026 Sad 1 #i feel alone
+16 7 2026 Calm 4 #i trust the process
+20 7 2026 Calm 4 #i handled things well
+25 7 2026 Stressed 1 #i have exams
+5 8 2026 Happy 5 #i achieved something
+30 8 2026 Calm 4 #i found my balance
+8 9 2026 Sad 1 #i feel tired
+5 5 2026 happy 5 #i am happy
+1 1 2026 calm 5 #birthday
+0 0 0  0 #
